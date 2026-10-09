@@ -2,9 +2,13 @@
 First solve the problem, then write the code. ❤️
 ### 🧑‍💻 About Me
 🔭 Learning：Full-Stack Development ⚡ | Open-Source 🔥
+
 💬 Languages：Java、Spring、Spring Boot、MySQL、JavaScript
+
 🎭 Hobbies：Skiing 🎿 | Singing 🎤 | Swimming 🏊
+
 💡 Fact: Flow on the slopes, logic in the code ❤️
+
 ### 📬 Contact Me
 📧 Email： feedback-git@email.cdragon.win
 ### 📌 Recent Updates
